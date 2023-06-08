@@ -1,0 +1,3 @@
+/Users/ilka/CLionProjects/IDZ4_2_Client/cmake-build-debug/CMakeFiles/IDZ4_2_Client.dir
+/Users/ilka/CLionProjects/IDZ4_2_Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilka/CLionProjects/IDZ4_2_Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
